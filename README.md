@@ -1,3 +1,4 @@
 # Crud Demo 
 
-This is the source code for ["Building a CRUD app with Node, Express, and MongoDB"](https://zellwk.com/blog/crud-express-mongodb). 
+This is a fork of ["zellwk/crud-demo"](https://github.com/zellwk/crud-demo)
+that I'm using as a sample app for some k8s demos.
